@@ -4,10 +4,10 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="django-turbolinks-elahmo",
+    name="django-turbolinks-2",
     version="0.9.0",
     author="Ahmet Novalic",
-    author_email="author@example.com",
+    author_email="ahmetnovalic@gmail.com",
     description="Turbolinks package for django",
     long_description=long_description,
     long_description_content_type="text/markdown",
